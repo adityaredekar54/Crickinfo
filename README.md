@@ -16,7 +16,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/adityaredekar54/Crickinfo
 Navigate to the project folder:
 sh
 Copy
